@@ -11,4 +11,4 @@ The dataset used in this project was obtained from [here](https://github.com/fiv
 - Python
 - Pandas
 
-[View the Jupyter Notebook](https://github.com/WitoldStupnicki/clean-and-analyze-employee-exit-surveys/blob/main/Clean_and_Analyze_Employee_Exit_Surveys.ipynb)
+[View the Jupyter Notebook](https://github.com/WitoldStupnicki/star-wars-survey/blob/main/star_wars_survey.ipynb)
